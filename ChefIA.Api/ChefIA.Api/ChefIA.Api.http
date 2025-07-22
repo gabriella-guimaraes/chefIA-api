@@ -1,0 +1,6 @@
+@ChefIA.Api_HostAddress = http://localhost:5216
+
+GET {{ChefIA.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
